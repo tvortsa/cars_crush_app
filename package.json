@@ -1,0 +1,8 @@
+{
+  "name": "cars_crush_app",
+  "version": "0.0.1",
+  "description": "2D cars crush demo app project on MelonJS and electron",
+  "main": "main.js",
+  "author": "Ivan (Tvortsa)",
+  "license": "MIT"
+}
